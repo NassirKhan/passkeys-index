@@ -1,4 +1,4 @@
-Welcome to the passkey index, a community initiative to surface new websites and applications that support passkeys. This index is backed by security enthusiasts who want to share the newest and latest around passkeys.
+
 
 ### **Contribute to the broad adoption of passkeys!**
 This is a living list. If you are aware of other solutions, websites or platforms not listed here, please submit a PR!
